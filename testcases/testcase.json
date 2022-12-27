@@ -1,0 +1,47 @@
+{
+  "input": {
+    "type": "JSON",
+    "source": "testcases/in.json"
+  },
+  "layers": [
+    {
+      "id": 1,
+      "type": "mux"
+    },
+    {
+      "id": 3,
+      "needs": 2,
+      "type": "struct_transformer",
+      "structTransformation": {
+        "data": [
+          {
+            "type": "input_columns",
+            "values": {
+              "drid": "device_ref_id",
+              "pc": "plan_code",
+              "crid": "channel_ref_id",
+              "ppid": "product_publisher_id",
+              "pv": "product_version",
+              "crby": "created_by",
+              "crdt": "crdt",
+              "chby": "changed_by",
+              "chdt": "chdt",
+              "corid": "correlation_id",
+              "hguid": "hit_guid",
+              "hdt": "hit_time"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "output": [
+    {
+      "type": "JSON",
+      "target": "out.json",
+      "schema": {
+        "Data": "data"
+      }
+    }
+  ]
+}

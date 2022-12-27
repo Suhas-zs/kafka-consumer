@@ -1,0 +1,122 @@
+[
+  {
+    "device_ref_id":"59901ec8-e84c-41e5-b086-f5efc958ba9d",
+    "plan_code":"64acbafc-6157-4ae0-8db1-e0a429b1055d",
+    "channel_ref_id": "19104434-4707-4e43-94a0-4344c40d8ce3",
+    "product_publisher_id": "partner_product_orch",
+    "product_version": "1.0.0",
+    "created_by": "mcafee/user1",
+    "creation_time": 1669974654,
+    "changed_by": "mcafee/user1",
+    "changed_time": 1669975095,
+    "hit_guid": "0e78c18b-d224-4d84-8f3f-cfaf1dbcbbc8"
+  },
+  {
+    "device_ref_id":"2ee2585e-2b8d-488c-a3f2-0b8e3501db4e",
+    "plan_code":"c7662e1d-47fe-4263-8bf4-bd884df96cff",
+    "channel_ref_id": "537d4c78-34de-432f-8c27-33e3a48c9b04",
+    "product_publisher_id": "partner_product_orch",
+    "product_version": "1.0.0",
+    "created_by": "mcafee/user1",
+    "creation_time": 1669971054,
+    "changed_by": "mcafee/user1",
+    "changed_time": 1669971495,
+    "hit_guid": "8d3ac582-7923-4484-8a50-535bde9b1f3e"
+  },
+  {
+    "device_ref_id":"ffdb14f3-34fc-4dd7-9be0-9061ab681ba5",
+    "plan_code":"e9536a19-13f5-493b-9ff7-fc514899f90a",
+    "channel_ref_id": "57fc6e9e-58e7-4ad1-84c7-81b1d70bd944",
+    "product_publisher_id": "partner_product_orch",
+    "product_version": "1.0.0",
+    "created_by": "mcafee/user1",
+    "creation_time": 1669967454,
+    "changed_by": "mcafee/user1",
+    "changed_time": 1669967895,
+    "hit_guid": "14d1ec6b-de95-4187-aeb6-3ab5284c692d"
+  },
+  {
+    "device_ref_id":"9e97518e-e0bc-49dd-89a9-7b02bc578fab",
+    "plan_code":"dd0eb04d-29cf-44ba-bddc-3ea36b982e28",
+    "channel_ref_id": "d90a8b42-9cdc-41d5-889b-e48544913ef2",
+    "product_publisher_id": "partner_product_orch",
+    "product_version": "1.0.0",
+    "created_by": "mcafee/user1",
+    "creation_time": 1669963854,
+    "changed_by": "mcafee/user1",
+    "changed_time": 1669964295,
+    "hit_guid": "2cfd014d-9eaa-4ead-8ad6-51463f1c4b52"
+  },
+  {
+    "device_ref_id":"b661a745-472b-4dfa-91ee-815ac4a197e0",
+    "plan_code":"aeed5903-bcf0-4abc-9eeb-a42f2f132299",
+    "channel_ref_id": "442d69b5-1608-4427-9b3e-d4df6436ac09",
+    "product_publisher_id": "partner_product_orch",
+    "product_version": "1.0.0",
+    "created_by": "mcafee/user1",
+    "creation_time": 1669953054,
+    "changed_by": "mcafee/user1",
+    "changed_time": 1669953495,
+    "hit_guid": "b313b6e6-bb5c-4b94-b04e-adc9f1561bcf"
+  },
+  {
+    "device_ref_id":"1ef32231-9c87-4727-a2fb-2e8953f097ed",
+    "plan_code":"dec1934b-1352-4c36-b3f7-342d04aa0786",
+    "channel_ref_id": "43e6c3c5-cc15-430c-9a6d-9b669250a18c",
+    "product_publisher_id": "partner_product_orch",
+    "product_version": "1.0.0",
+    "created_by": "mcafee/user1",
+    "creation_time": 1669931454,
+    "changed_by": "mcafee/user1",
+    "changed_time": 1669931895,
+    "hit_guid": "0427f06a-0bd0-4cea-983a-a5f2d470d1a5"
+  },
+  {
+    "device_ref_id":"2b20dfe2-5608-4171-9959-b9b6daae4a4b",
+    "plan_code":"3451b87f-c060-44b6-a8f0-72ebc828c839",
+    "channel_ref_id": "0f09d0d4-ae48-47b6-a088-dc7ded1284a6",
+    "product_publisher_id": "partner_product_orch",
+    "product_version": "1.0.0",
+    "created_by": "mcafee/user1",
+    "creation_time": 1669888254,
+    "changed_by": "mcafee/user1",
+    "changed_time": 1669888695,
+    "hit_guid": "47872cab-626a-42c5-8154-a877b5fdb360"
+  },
+  {
+    "device_ref_id":"5a0698f4-eb9b-420e-acf5-44f2d547a119",
+    "plan_code":"cdbf5167-f7c2-49f3-957d-78e3fa8a8cd2",
+    "channel_ref_id": "84e61356-b2d7-4267-ae29-ae32ef99db8c",
+    "product_publisher_id": "partner_product_orch",
+    "product_version": "1.0.0",
+    "created_by": "mcafee/user1",
+    "creation_time": 1669801854,
+    "changed_by": "mcafee/user1",
+    "changed_time": 1669802295,
+    "hit_guid": "5f06284c-2d32-436c-b56a-a30d8ef6ca83"
+  },
+  {
+    "device_ref_id":"5b85b6f0-c277-457d-b151-0cb8dcdb92c9",
+    "plan_code":"c8f7f2db-e6ee-4368-8df1-2de970ca3c18",
+    "channel_ref_id": "27e56ee5-d94b-4bb5-842d-81e0daf9fad6",
+    "product_publisher_id": "partner_product_orch",
+    "product_version": "1.0.0",
+    "created_by": "mcafee/user1",
+    "creation_time": 1669715454,
+    "changed_by": "mcafee/user1",
+    "changed_time": 1669715895,
+    "hit_guid": "84c5e667-f1a8-48ac-b63e-05ae3bd458d6"
+  },
+  {
+    "device_ref_id":"4ac42a18-9911-4c93-8c62-b1d08e21e728",
+    "plan_code":"78707f18-9514-44e8-8223-550d42a688de",
+    "channel_ref_id": "9d5dffe5-c9d0-4083-ba8d-1d870d0c4801",
+    "product_publisher_id": "partner_product_orch",
+    "product_version": "1.0.0",
+    "created_by": "mcafee/user1",
+    "creation_time": 1669369854,
+    "changed_by": "mcafee/user1",
+    "changed_time": 1669370295,
+    "hit_guid": "f33f2f70-7127-44ec-9c20-6e109efe3f2a"
+  }
+]
